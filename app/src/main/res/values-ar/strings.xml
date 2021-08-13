@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق اختبارى</string>
+    <string name="title_activity_two">الشاشة الثانية</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">الجزء الأول</string>
+    <string name="second_fragment_label">الجزء الثانى</string>
+    <string name="next">التالى</string>
+    <string name="previous">السابق</string>
+
+    <string name="hello_first_fragment">مرحبا الجزء الأول</string>
+    <string name="hello_second_fragment">مرحبا الجزء الثانى</string>
+    <string name="phone_text">الهاتف</string>
+    <string name="message_text">الرسالة</string>
+    <string name="close_text">اغلاق</string>
+    <string name="back_text">الرجوع</string>
+</resources>
